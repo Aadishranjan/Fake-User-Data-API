@@ -32,8 +32,12 @@ A FastAPI-based REST API that generates realistic fake user profiles for use in 
 
 ```bash
 pip install fastapi uvicorn faker
+```
+```bash
 uvicorn main:app --reload
 ```
+
+server was run in your local host
 
 ---
 
