@@ -31,6 +31,9 @@ A FastAPI-based REST API that generates realistic fake user profiles for use in 
 ## Installation
 
 ```bash
+git clone https://github.com/Aadishranjan/Fake-User-Data-API
+```
+```bash
 pip install fastapi uvicorn faker
 ```
 ```bash
